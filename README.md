@@ -24,5 +24,5 @@ docker.exe ps
 docker.exe images
 ```
 ```
-docker run paznoa/hello-docker:1.0
+docker run -d -p 8000:3333 paznoa/hello-docker:1.0
 ```
