@@ -1,13 +1,9 @@
 # hello-docker
 
 
-```
-docker push paznoa/hello-docker:tagname
-```
-
 
 ```
-docker.exe build . -t paznoa/hello-docker
+docker.exe build . -t paznoa/hello-docker:1.0
 ```
 
 ```
